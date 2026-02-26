@@ -1,13 +1,14 @@
-CI7521 Coursework 1 – Classical Machine Learning
+# CI7521 Coursework 1 – Classical Machine Learning
 
-This repository contains the implementation of multiple classification algorithms applied to the GesturePhaseSegmentationProcessed dataset.
+This repository contains the implementation and evaluation of classical machine learning classification algorithms applied to the GesturePhaseSegmentationProcessed dataset (OpenML ID: 4538).
 
-Group Members:
-- Lenna 
+
+## Group Members
+- Lenna
 - Nikitha
 - Laxman
 - Shreyas
 
-Models Implemented:
-- Extra Trees
-- Gradient Boosting
+## Models Implemented
+- Gradient Boosting Classifier
+- Extra Trees Classifier
