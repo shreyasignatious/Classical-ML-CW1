@@ -15,8 +15,11 @@ Group number: 24
 Student names and K-ID's:
 
 Leena Perugu - K2557049
+
 Nikitha ReddyTudi - k2600428
+
 Laxman Sapavath - K2552577
+
 Shreyas Ignatious Maramreddy-K2540651
 
 LOAD MODULES
