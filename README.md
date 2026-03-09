@@ -1,6 +1,7 @@
 # CI7521 Coursework 1 – Classical Machine Learning
 
 Gesture Phase Segmentation
+
 Table of Contents
 No.	Section
 1	Group Details
